@@ -1,0 +1,5 @@
+containers:
+  - name: backend
+    image: backend:latest
+    imagePullPolicy: Never
+    # ...autres options...
